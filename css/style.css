@@ -276,12 +276,13 @@ pre {
   text-overflow: ellipsis;
   overflow: hidden;
   white-space: nowrap;
-  background-image: -webkit-linear-gradient(left, #cddc39, #e67e22 25%, #cddc39 50%, #e67e22 75%, #cddc39) !important;
+  background-color: #cddc;
   -webkit-text-fill-color: transparent!important;
   -webkit-background-clip: text!important;
   background-size: 200% 100%!important;
   animation: masked-animation 2s infinite linear !important;
   font-size: 15px;
+  font-family:"微软雅黑";
 }
 .main-header .main-header-box .branding h2:hover {
   animation: masked-animation 1s infinite linear !important;
